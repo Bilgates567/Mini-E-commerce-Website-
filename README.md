@@ -1,2 +1,4 @@
 # Mini-E-commerce-Website-
 Mini E-commerce Website using MERN Stack
+# Project Description:
+The Mini E-commerce Website using the MERN (MongoDB, Express.js, React.js, Node.js) stack is a full-stack web application designed for online shopping. MongoDB is used for the database, Express.js and Node.js for the backend server, and React.js for the frontend user interface. This project allows users to browse products, add them to cart, and complete purchases securely. It includes features like user authentication, product search and filtering, cart management, and order processing. The MERN stack's flexibility and performance ensure a responsive and interactive shopping experience. This project showcases skills in frontend and backend development, database management, and e-commerce functionalities.
